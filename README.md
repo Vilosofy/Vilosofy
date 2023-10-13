@@ -1,5 +1,9 @@
-# Heyo 👋, my name is Owen
+<p align="center">
+  <img src="https://github.com/Vilosofy/Vilosofy/assets/110817879/6347a11c-cca4-4fd5-a14b-3de8f4a9d3d6" alt="Profile Banner">
+</p>
 
+<h1 align="center"> Heyo 👋, my name is Owen </h1>
+  
 <br>
 
 ## About me 😊
