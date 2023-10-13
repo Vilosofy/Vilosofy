@@ -14,7 +14,7 @@
 <br>
 <br>
 
-My UI / UX portfolio https://www.behance.net/owenfarida
+My UI / UX portfolio <a href="https://www.behance.net/owenfarida" target="_blank"> https://www.behance.net/owenfarida </a>
 
 <br>
 <br>
