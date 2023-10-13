@@ -1,5 +1,7 @@
 # Heyo 👋, my name is Owen
+
 <br>
+
 ## About me 😊
 <li> Computer Science student at Bina Nusantara University 🎓 </li>
 <li> Currently learning Next.js ✍️ </li>
