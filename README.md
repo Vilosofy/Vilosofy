@@ -1,4 +1,9 @@
 # Heyo 👋, my name is Owen
+<br>
+## About me 😊
+<li> Computer Science student at Bina Nusantara University 🎓 </li>
+<li> Currently learning Next.js ✍️ </li>
+<li> You can contact me at <a href="mailto:owenfarida14@gmail.com?"> owenfarida14@gmail.com ✉️ </a></li>
 
 <br>
 <br>
@@ -15,7 +20,7 @@
 <br>
 
 
-## Connect with me 🔗:
+## Connect with me 🔗
 <a href="https://www.instagram.com/owenfarida/"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="owenfarida | Instagram" width="45px"/></a>
 <a href="https://www.linkedin.com/in/owen-farida-b1a621236/"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Owen Farida | LinkedIn" width="45px"/></a>
 
@@ -23,13 +28,12 @@
 <br>
 <br>
 
-## My tools 🛠️:
+## My tools 🛠️
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JS" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="JS" width="45px"/>
-<img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Adobe Photoshop" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="Adobe Illustrator" width="45px"/>
