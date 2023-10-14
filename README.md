@@ -8,7 +8,7 @@
 
 ## About me 😊
 <li> Computer Science student at Bina Nusantara University 🎓 </li>
-<li> Currently learning Next.js ✍️ </li>
+<li> Currently learning Next.js and Vue.js ✍️ </li>
 <li> You can contact me at <a href="mailto:owenfarida14@gmail.com?"> owenfarida14@gmail.com ✉️ </a></li>
 
 <br>
