@@ -39,7 +39,7 @@ My UI / UX portfolio <a href="https://www.behance.net/owenfarida" target="_blank
 <br>
 <br>
 
-## My tools 🛠️
+## My toolbox 🛠️
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="45px"/>
