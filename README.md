@@ -19,7 +19,7 @@ Check out my UI / UX portfolio <a href="https://www.behance.net/owenfarida" targ
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vilosofy&theme=dark)]
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vilosofy&theme=holi)]
 
 <br>
 
