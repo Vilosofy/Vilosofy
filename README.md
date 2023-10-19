@@ -19,17 +19,9 @@ Check out my UI / UX portfolio <a href="https://www.behance.net/owenfarida" targ
 <br>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilosofy&layout=compact" alt="Stats" width="400px"/>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vilosofy&theme=dark)]
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ## Connect with me 🔗
 <a href="https://www.instagram.com/owenfarida/"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="owenfarida | Instagram" width="45px"/></a>
