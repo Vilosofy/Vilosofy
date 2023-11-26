@@ -42,7 +42,6 @@ Check out my UI / UX portfolio <a href="https://www.behance.net/owenfarida" targ
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Adobe Photoshop" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="Adobe Illustrator" width="45px"/>
 <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="Adobe Premiere" width="45px"/>
-<img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" alt="Adobe After Effects" width="45px"/>
 
 
 <!--
